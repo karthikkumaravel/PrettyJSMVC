@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Los Angeles, CA</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_f.html</link>
+<description>Yahoo! Weather for Los Angeles, CA</description>
+<language>en-us</language>
+<lastBuildDate>Thu, 12 Dec 2013 3:46 am PST</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Los Angeles" region="CA"   country="United States"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="51"   direction="0"   speed="0" />
+<yweather:atmosphere humidity="29"  visibility="10"  pressure="30.16"  rising="1" />
+<yweather:astronomy sunrise="6:48 am"   sunset="4:43 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Los Angeles, CA at 3:46 am PST</title>
+<geo:lat>34.05</geo:lat>
+<geo:long>-118.25</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_f.html</link>
+<pubDate>Thu, 12 Dec 2013 3:46 am PST</pubDate>
+<yweather:condition  text="Fair"  code="33"  temp="51"  date="Thu, 12 Dec 2013 3:46 am PST" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/33.gif"/><br />
+<b>Current Conditions:</b><br />
+Fair, 51 F<BR />
+<BR /><b>Forecast:</b><BR />
+Thu - Sunny. High: 70 Low: 47<br />
+Fri - Sunny. High: 66 Low: 49<br />
+Sat - Sunny. High: 73 Low: 51<br />
+Sun - Sunny. High: 77 Low: 54<br />
+Mon - Sunny. High: 81 Low: 55<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Los_Angeles__CA/*http://weather.yahoo.com/forecast/USCA0638_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Thu" date="12 Dec 2013" low="47" high="70" text="Sunny" code="32" />
+<yweather:forecast day="Fri" date="13 Dec 2013" low="49" high="66" text="Sunny" code="32" />
+<yweather:forecast day="Sat" date="14 Dec 2013" low="51" high="73" text="Sunny" code="32" />
+<yweather:forecast day="Sun" date="15 Dec 2013" low="54" high="77" text="Sunny" code="32" />
+<yweather:forecast day="Mon" date="16 Dec 2013" low="55" high="81" text="Sunny" code="32" />
+<guid isPermaLink="false">USCA0638_2013_12_16_7_00_PST</guid>
+</item>
+</channel>
+</rss>
+
+<!-- api9.weather.bf1.yahoo.com Thu Dec 12 12:22:51 PST 2013 -->
